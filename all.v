@@ -257,4 +257,3 @@ int main()
     else
       cout<<"Not strongly connected"<<endl;
 }
-Write to Shakil Ahmed
